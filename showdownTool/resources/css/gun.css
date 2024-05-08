@@ -1,0 +1,45 @@
+
+
+        #imgContainer {
+            position: relative; 
+        }
+
+
+        #imgContainer p{
+            position: absolute;
+            transform: translate(-50%, -50%);
+            font-size: 1.3em;
+            color: white;
+            text-shadow: 2px 2px 4px #000000;
+         
+        }
+
+        #headshotDamageTag {
+            left: 50%;
+            top: 8%
+        }
+
+        #torsoDamageTag {
+            left: 50%;
+            top: 28%
+        }
+
+        #limbDamageTagLeftArm {
+            left: 30%;
+            top: 28%
+        }
+
+        #limbDamageTagRightArm {
+            left: 69%;
+            top: 28%
+        }
+
+        #limbDamageTagLeftLeg {
+            left: 41%;
+            top: 57%
+        }
+
+        #limbDamageTagRightLeg {
+            left: 58%;
+            top: 57%
+        }
